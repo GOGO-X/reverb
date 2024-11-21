@@ -1,6 +1,18 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/reverb/compare/v1.4.0...main)
+## [Unreleased](https://github.com/laravel/reverb/compare/v1.4.3...main)
+
+## [v1.4.3](https://github.com/laravel/reverb/compare/v1.4.2...v1.4.3) - 2024-10-31
+
+* Test against php 8.4 by [@sergiy-petrov](https://github.com/sergiy-petrov) in https://github.com/laravel/reverb/pull/267
+
+## [v1.4.2](https://github.com/laravel/reverb/compare/v1.4.1...v1.4.2) - 2024-10-24
+
+* [1.x] Optionally uses control frames for handling ping and pong by [@joedixon](https://github.com/joedixon) in https://github.com/laravel/reverb/pull/253
+
+## [v1.4.1](https://github.com/laravel/reverb/compare/v1.4.0...v1.4.1) - 2024-10-04
+
+* [1.x] Re-subscribes to the scaling channel when the underlying connection is lost by [@ashiquzzaman33](https://github.com/ashiquzzaman33) in https://github.com/laravel/reverb/pull/251
 
 ## [v1.4.0](https://github.com/laravel/reverb/compare/v1.3.1...v1.4.0) - 2024-10-01
 
